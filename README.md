@@ -1,4 +1,8 @@
-# vue-tinymce
+# vue-tinymce5
+
+Functional example of tinymce 5.0.2 integrated with vue
+
+After struggling a lot making tinymce 5 works on vue I made it.
 
 ## Project setup
 ```
